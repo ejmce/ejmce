@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ejce
 - I am creating this as a temprary read me for my future projects.
+- My main two projects at the moment are the power bi and MIS 307.
 - Thank you,
 
 <!---
